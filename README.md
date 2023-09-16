@@ -4,6 +4,8 @@ Administrators have extensive control over orders, delivery statuses, product ma
 Email: bavithran9214@gmail.com
 Password: 123456
 
+live AWS deployed URL : http://16.171.41.46:8000/
+
 For visual guidance on integrating the STRIPE API and MAILTRAP, the screenshots:
 
 ![STRIPE API](https://github.com/Bavithran97/cap-mern/assets/133184385/2f716c83-1601-4e43-9633-d84638096091)
